@@ -10,9 +10,9 @@
 
 1. Least Privilege
 2. Cryptography
-   1. Hashing
-   2. Encryption
-   3. Digital Signature
+   - Hashing
+   - Encryption
+   - Digital Signature
 
 ## Authentication
 
@@ -21,3 +21,6 @@
 
 
 
+# DDoS Attack
+
+DDoS Attack adalah salah satu tipe cyber attack yang telah hadir sejak tahun 1974 dan sampai saat ini masih bisa menjadi serangan yang mematikan. Sebelum melakukan penyerangan, seorang attacker akan menginfeksi sekumpulan komputer terlebih dahulu menggunakan malware yang disebut dengan botnet.
