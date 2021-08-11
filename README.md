@@ -22,21 +22,53 @@
 # DDoS Attack
 
 1. Types of DDoS Attacks
+
    - Voluminous Attack
    - Protocol-based Attack
    - Application-layer Attack
+
 2. DDoS Attack Automation
+
    - Manual Attack
    - Semi-automatic Attack
    - Automatic Attack
+
 3. DDoS Attack Rate
+
    - High-rate Attack
    - Variable-rate Attack
    - Low-rate Attack
+
 4. DDoS Attack Vector
+
    - Volumetric Attack
    - Amplification Attack
    - Layer 3 & 4 Attack
+
+5. Botnet
+
+6. DDoS Attack Protection
+
+   - Monitoring
+   - Detection
+   - Reaction
+
+7. DDoS Attack Prevention
+
+   - Prevention Technique
+     - IP Traceback
+     - Link Testing
+     - Packet Marking
+     - Packet Logging
+   - Filtering Technique
+     - Ingress & Egress
+   - Rate Control Technique
+
+8. DDoS Attack Reaction
+
+   - Intrusion Response System
+
+     
 
 # DDoS Attack
 
