@@ -29,6 +29,14 @@
    - Manual Attack
    - Semi-automatic Attack
    - Automatic Attack
+3. DDoS Attack Rate
+   - High-rate Attack
+   - Variable-rate Attack
+   - Low-rate Attack
+4. DDoS Attack Vector
+   - Volumetric Attack
+   - Amplification Attack
+   - Layer 3 & 4 Attack
 
 # DDoS Attack
 
