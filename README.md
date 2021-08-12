@@ -14,10 +14,26 @@
    - Encryption
    - Digital Signature
 
+
+
 ## Authentication
 
 1. Multifactor Authentication
 2. Public Key Infrastructure
+
+
+
+## Data Protection
+
+1. Data Exfiltration
+   - Zero-trust Model
+   - Secure Code
+
+
+
+# Monitoring
+
+
 
 # DDoS Attack
 
