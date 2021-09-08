@@ -46,6 +46,13 @@ Ada beberapa teknologi yang digunakan untuk mendukung **confidentiality** :
 
    Teknologi yang digunakan untuk mengetahui identitas seseorang. Contoh sistem pengenal wajah atau sistem login dalam akun **facebook**.
 
+Sebuah data dapat diklasifikasi ke dalam beberapa tipe :
+
+1. **Public** (Dapat dibaca oleh masyarakat umum)
+2. **Internal Use Only** (Untuk Informasi internal organisasi)
+3. **Confidential** (Rahasia)
+4. **Strictly Confidential** (Sangat Rahasia)
+
 
 
 ## Integrity 
