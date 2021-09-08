@@ -67,8 +67,10 @@ Semakin ke bawah ditandai dengan tingkat kerahasiaanya menjadi semakin tinggi.
 
 ## Integrity 
 
-**Integrity** mengacu kepada konsistensi, akurasi dan tingkat validitas suatu data dan informasi.
+**Integrity** atau integritas mengacu kepada konsistensi, akurasi dan tingkat validitas suatu data dan informasi. Proses dan prosedur untuk perubahan data dan informasi juga harus ditentukan. Jika terdapat perubahan data atau informasi maka kegiatan tersebut harus dapat diketahui dan dapat dibuktikan oleh entitas siapa saja. 
 
 
 
 ## Availability
+
+**Availability** atau ketersediaan adalah kepastian bahwa data dan informasi harus dapat diakses saat dibutuhkan. 
