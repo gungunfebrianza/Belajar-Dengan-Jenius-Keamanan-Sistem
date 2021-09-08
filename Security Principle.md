@@ -53,6 +53,16 @@ Sebuah data dapat diklasifikasi ke dalam beberapa tipe :
 3. **Confidential** (Rahasia)
 4. **Strictly Confidential** (Sangat Rahasia)
 
+Pada dunia militer sebuah dokumen dibagi menjadi beberapa klasifikasi :
+
+1. **Unclassified** (dapat berupa **public** atau **confidential**)
+2. **Restricted**
+3. **Confidential**
+4. **Secret**
+5. **Top Secret**
+
+Semakin ke bawah ditandai dengan tingkat kerahasiaanya menjadi semakin tinggi.
+
 
 
 ## Integrity 
