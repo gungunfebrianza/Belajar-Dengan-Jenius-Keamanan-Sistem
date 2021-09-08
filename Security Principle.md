@@ -36,6 +36,16 @@ Sumber daya (**resources**) di atas harus dapat diakses oleh entitas-entitas yan
 
 **Confidentiality** memastikan bahwa sumber daya di atas yaitu informasi, jaringan komputer dan sistem komputer tetap aman dan tidak dapat diakses oleh entitas yang tidak memiliki otorisasi akses.
 
+Ada beberapa teknologi yang digunakan untuk mendukung **confidentiality** :
+
+1. Pemanfaatan teknologi enkripsi (**encryption**)
+
+   Teknologi yang memastikan informasi hanya dapat dibaca oleh entitas yang berwenang. Contoh paling sederhana sistem pengiriman pesan sms yang hanya dapat dibaca oleh pengirim dan penerima, meskipun pesan dapat di sadap oleh pemilik provider telekomunikasi. Pesan akan disandikan ke dalam bahasa yang hanya dapat dimengerti oleh pengirim dan penerima.
+
+2. Pemanfaatan teknologi otentikasi (**authentication**)
+
+   Teknologi yang digunakan untuk mengetahui identitas seseorang. Contoh sistem pengenal wajah atau sistem login dalam akun **facebook**.
+
 
 
 ## Integrity 
