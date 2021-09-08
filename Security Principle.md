@@ -67,6 +67,8 @@ Semakin ke bawah ditandai dengan tingkat kerahasiaanya menjadi semakin tinggi.
 
 ## Integrity 
 
+**Integrity** mengacu kepada konsistensi, akurasi dan tingkat validitas suatu data dan informasi.
+
 
 
 ## Availability
